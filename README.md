@@ -6,7 +6,7 @@
 
 ## About the Project
 
-My Portfolio is the start of my professional portfolio. The website consists of 3 main pages, the about me section, portfolio, and a contact me page. Each page are 3 seperate sections, and can be accessed through the navbar.
+A portfolio in progress! Recently updated to add new project, and a few features.
 
 ## Built With
 css
